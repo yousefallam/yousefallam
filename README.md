@@ -18,6 +18,16 @@
   <img src="https://komarev.com/ghpvc/?username=yousefallam&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
   ![](https://hit.yhype.me/github/profile?user_id=14308006)
 </div>
+<div id="view" align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+<h1>
+  Hi.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+</div>
 
 ---
 
@@ -52,7 +62,7 @@
 
 ---
 
-### :My Stats :
+### 📊 My Stats :
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yousefallam&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/yousefallam?tab=repositories)
