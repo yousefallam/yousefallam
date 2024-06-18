@@ -71,4 +71,4 @@
 </div>
 ---
 
-![snake animation](https://github.com/yousefallam/yousefallam/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](./dist/github-snake.svg)
