@@ -75,7 +75,9 @@
 ### 🐍 Contrib. :
 
 <div align="center">
+  
 ![Snake animation](./dist/github-snake.svg)
+
 </div>
 
 ---
